@@ -1,7 +1,7 @@
-string_literal = ...  # здесь Ваш код
-integer_literal = ...  # здесь Ваш код
-float_literal = ...  # здесь Ваш код
-boolean_literal = ...  # здесь Ваш код
+string_literal = "hello"
+integer_literal = 12
+float_literal = 3.5
+boolean_literal = True
 
 print(string_literal)
 print(integer_literal)
